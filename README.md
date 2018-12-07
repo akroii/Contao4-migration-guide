@@ -3,8 +3,7 @@
 1. Datenbank exportieren
 2. exportierte Datenbank auf Zielserver importieren
 3. Frische `contao-manager.phar.php` herunterladen und in das `/web` - Verzeichnis des Servers legen
-4. `contao-manager.phar.php` frisch herunterladen über contao.org im `/web` Verzeichnis aufrufen
-5. `parameters.yml`,`config.yml` hochladen `[root]/app/config` und anpassen
+4. `parameters.yml`,`config.yml` hochladen `[root]/app/config` und anpassen
 5. `localconfig.php`, `langconfig.php`, `dcaconfig.php`auf den Server übertragen bei `[root]/system/modules/config` hochladen
 6. Evtl. Contao Erweiterungen 3.x Erweiterungen in das `[root]/system/modules` übertragen
 7. `files`, `templates`-Verzeichnis auf den Server übertragen
